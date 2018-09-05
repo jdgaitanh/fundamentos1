@@ -1580,9 +1580,7 @@ function draw() {
   }
 
 
- if (frameCount < 100){
- saveCanvas("miFlipbooksito_" + frameCount, 'jpg');
- }
+
 
 
 
