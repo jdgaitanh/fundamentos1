@@ -364,7 +364,7 @@ function draw() {
   var papayitas = 2
   
   
-   if (Pussy.currentTime() > 1&& Pussy.currentTime() <140||Pussy.currentTime() > 165&& Pussy.currentTime() <182){
+   if (Pussy.currentTime() > 130&& Pussy.currentTime() <140||Pussy.currentTime() > 165&& Pussy.currentTime() <182){
       
       
         for(var s2 = 0;s2 < papayitas; s2++){
