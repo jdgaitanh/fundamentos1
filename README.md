@@ -6,4 +6,4 @@ Ejercicios para la clase de Fundamentos 1
 3. [Movimiento] (https://jdgaitanh.github.io/fundamentos1/03)
 4. [Herramienta de dibujo] (https://jdgaitanh.github.io/fundamentos1/04)
 5. [Tiempo] (https://jdgaitanh.github.io/fundamentos1/05)
-6. [FVideo] (https://jdgaitanh.github.io/fundamentos1/06)
+6. [Video] (https://jdgaitanh.github.io/fundamentos1/06)
