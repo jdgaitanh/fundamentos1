@@ -74,9 +74,6 @@ function draw() {
   
 
 
-  text(mouseX, mouseX, mouseY)
-
-  text(mouseY, mouseX + 50, mouseY + 50)
   
 }
 
