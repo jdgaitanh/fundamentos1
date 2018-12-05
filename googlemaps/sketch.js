@@ -240,7 +240,7 @@ function preload() {
 
 
 
-  familia = loadImage('familia.png');
+  familia = loadImage('assets/familia.png');
   barra = loadImage('assets/barrasuperior.png');
   mapa = loadImage('assets/mapa.png');
   tdepa = loadTable('bases/departamentos.csv', 'csv', 'header');
