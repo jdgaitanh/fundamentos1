@@ -103,7 +103,7 @@ function mouseReleased() {
             }
             if (mouseX > 442 && mouseX < 531 && mouseY > 547 && mouseY < 645) {
                
-              window.open("https://jdgaitanh.github.io/fundamentos1/googlemaps/");
+              window.open("https://jdgaitanh.github.io/fundamentos1/googlemaps/index.html");
             
             }
             if (mouseX > 555 && mouseX < 695 && mouseY > 520 && mouseY < 612) {
